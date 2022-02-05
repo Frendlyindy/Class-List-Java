@@ -1,14 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is my siple Classroom managemnet program. I am using this to teach myself Java. 
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/g6xo7_M2Hng)
 
 # Development Environment
 
@@ -19,7 +13,7 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Oracle](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
